@@ -18,5 +18,4 @@ C:\Users\USER\AppData\Local\Programs\Python\Python37\lib\site-packages\패키지
 
 - chatterbot.corpus.korean이 처음에 파일이 없어서 패키지 data안에 corpus 깃헙에서 korean파일 가져와서 다운 받음
 
-## 
-<img src="">
+<img src="https://user-images.githubusercontent.com/45554623/130724393-679e95f8-dd4c-4bfb-84af-609589263b53.png">
